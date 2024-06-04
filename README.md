@@ -1,4 +1,12 @@
-## Hi there 👋
+BOAS VINDAS AO MEU PERFIL 💜 
+
+Meu nome é Ana Lucia
+ · Estou estudando na Alura
+ · Estou me desenvolvendo na linguagem JavaScript
+ · Utilizo esse espaço para minha organizaçäo e compartilhamento dos meus projetos desenvolvidos
+
+VOCÊ PODE ENTRAR EM CONTATO COMIGO 📮 
+ @00001252146140sp@al.educacao.sp.gov.br
 
 <!--
 **Analucia2305/Analucia2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
